@@ -1,1 +1,1 @@
-[![Missingdays' github stats](https://github-readme-stats.vercel.app/api?username=missingdays)](https://github.com/missingdays)
+<img src="https://komarev.com/ghpvc/?username=missingdays&style=flat-square&color=orange" alt=""/>
